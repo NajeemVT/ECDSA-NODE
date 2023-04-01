@@ -21,3 +21,5 @@ This project implements a client and server to facilitate transfers between diff
 3. Run `node index` to start the server
 
 The application should connect to the default server port (3042) automatically!
+
+*** This project is completed as part of Ethereum Developer Bootcamp in Alchemy University ***
