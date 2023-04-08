@@ -22,4 +22,14 @@ This project implements a client and server to facilitate transfers between diff
 
 The application should connect to the default server port (3042) automatically!
 
-*** This project is completed as part of Ethereum Developer Bootcamp in Alchemy University ***
+### Test Users
+
+# User 1
+
+private key: 4f30997073f5aea3a97490d38905eac8b021a31fdd2b68d7abf4f78462183b11
+public key: 0435897978cf590281d3d3aa4a86093eae6907c69cb8bde0e1b239ce12f265a1fd42ac2f405569eab823a7108db9fb084f04961b5e582cbc24fe317bcc09a62993
+
+# User 2
+
+private key: 5346cff0b05b4de4cb03255ad5248bda87d95e4b19416acea7ce25c19c077e47
+public key: 04a7049cc3e48d342e204ab4284974aa4f98d28fa21031ba24f08f3376317c0ba41b2f0755ed3c5aaa23e91c20edd8fc4fdb7d6a307848b212178cd48547071df6
